@@ -70,7 +70,7 @@ data: 3
 ## LICENSE
 
 * このソフトウェアパッケージは、３条項BSDライセンスの下、再配布および許可が許可されています。
-* [LICENSE](https://github.com/RyomaMinami/mypkg/LICENSE)
+* [LICENSE](https://github.com/RyomaMinami/mypkg/blob/master/LICENSE)
 * このパッケージのコードは千葉工業大学の上田　隆一先生の許可を得て自身の著作としています。
 * [上田　隆一先生のスライド](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 * © 2022 Ryoma Minami
