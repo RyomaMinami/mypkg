@@ -1,4 +1,6 @@
 #!/user/bin/python3
+# SPDX-FileCopyrightText: 2022 Ryoma Minami　　　　　
+# SPDX-License-Identifier: BSD-3-Clause
 
 import rclpy
 from rclpy.node import Node
