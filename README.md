@@ -2,11 +2,13 @@
 
 ## mypkgについて
 
-このリポジトリ内のmypkgファイルにはlistener.pyとtalker.pyというコマンドが存在します。
+mypkgは千葉工業大学の2022年度ロボットシステム学の授業内課題であり、listener.pyとtalker.pyというコマンドはmypkgファイルの中に存在します。
 
 ## listener.pyとtalker.pyコマンドについて
 
 ### コマンドの説明
+
+
 
 ### トピックについて
 
