@@ -25,7 +25,7 @@ ros2 run mypkg talker
 ```
 #### 出力例
 
-なにも出力されない
+なにも出力されません
 
 ### listener.py
 
