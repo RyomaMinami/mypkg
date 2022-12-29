@@ -25,17 +25,14 @@ ros2 run mypkg talker
 ```
 #### 出力例
 
-表示されない
-```
-
-```
+なにも出力されない
 
 ### listener.py
 
 #### 入力例
 別の端末を起動後
 ```
-ros2 topic echo /countup
+ros2 run mypkg listener
 ```
 
 #### 出力例
@@ -58,6 +55,7 @@ data: 3
 
 * ubuntu 22.04.1 LTS
 * Python 3.10.6
+* ROS2 Humble Hawksbill
 
 ### テスト内容
 
