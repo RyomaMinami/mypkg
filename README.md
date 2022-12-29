@@ -59,8 +59,8 @@ data: 3
 
 ### テスト内容
 
-千葉工業大学の上田　隆一先生のコンテナを使用
-
+* 千葉工業大学の上田　隆一先生のコンテナを使用
+* テストの詳細は[上田　隆一先生のコンテナ](https://hub.docker.com/layers/ryuichiueda/ubuntu22.04-ros2/latest/images/sha256-0e1773bc6f12b57172c8818aac36aeb97ca13269028028d49ad5f6f8cc0d6204?context=explore)をご覧ください
 ### テスト結果
 
 ![test](https://github.com/RyomaMinami/mypkg/actions/workflows/test.yml/badge.svg)
