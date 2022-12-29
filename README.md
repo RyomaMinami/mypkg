@@ -12,7 +12,7 @@ talker.pyがカウントしていった数字をlistener.pyが受け取り、端
 
 ### トピックについて
 
-名前はstd_msgs.msgでInt16型になっています
+talker.pyというノードからlistener.pyに、std_msgs.msgというトピックがInt16型でパブリッシュされています
 
 ## コマンドの使用例
 
